@@ -1,0 +1,38 @@
+# Build
+build/
+
+# CMake
+CMakeCache.txt
+CMakeFiles
+*.cmake
+
+# ninja
+*.ninja_log
+*.ninja_deps
+*.ninja
+
+# vscode
+*.vscode
+
+# other
+*.output
+out.txt
+
+# VisualStudio
+solution/
+*.vs
+
+# test case
+*.exe
+ir2c_*.c
+testcase/
+arm_test/
+
+#Unix Makefile
+Makefile
+*.dll
+
+# ARMv7 asm
+*.s
+asm/
+bin/
